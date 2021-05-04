@@ -8,4 +8,4 @@
 
 - Violeta Estrella Piero Alexis
 - Cerna Espiritu Roberto Alexis
--
+- Callupe Ganoza Fidel Gabriel
