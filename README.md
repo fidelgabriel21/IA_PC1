@@ -6,6 +6,7 @@
 
 ### Integrantes:
 
-- Violeta Estrella Piero Alexis
-- Cerna Espiritu Roberto Alexis
-- Callupe Ganoza Fidel Gabriel
+- Callupe Ganoza, Fidel Gabriel
+- Cerna Espiritu, Roberto Alexis
+- Cruz Coro, Cristhian Elian
+- Violeta Estrella, Piero Alexis
